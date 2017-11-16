@@ -1,3 +1,5 @@
+# -*- coding: utf-8 =*=
+
 import sys
 from os.path import expanduser
 from packages_and_style import *
